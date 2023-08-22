@@ -5,7 +5,7 @@ For now, I'm studying some technologies.</strong>
 - 🔭 I’m not working right now, I'm actually looking for a job ...
 - 🌱 I’m currently learning Java, PHP, JavaScript, HTML, CSS, C# and more...
 - 📱  Contact: samuellucenadeabreu@hotmail.com || samuellucenadeabreu@gmail.com
-  <a href = "mailto:samuellucenadeabreu@gmail.com" target="_blank" rel="external" align="center"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" target="_blank"></a>
+- <a href = "mailto:samuellucenadeabreu@gmail.com" target="_blank" rel="external" align="center"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samuellucena" target="_blank" rel="external" align="center"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" target="_blank"></a>
   
 <div>
